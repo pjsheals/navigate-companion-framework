@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use the Navigate Companion Framework™, please cite this repository as below."
+title: "Navigate Companion Framework™"
+authors:
+  - family-names: Sheals
+    given-names: Paul
+    orcid: https://orcid.org/0009-0006-2407-4612
+date-released: 2025-07-27
+version: "1.0"
+doi: 10.5281/zenodo.16410942
+url: https://github.com/pjsheals/navigate-companion-framework
+repository-code: https://github.com/pjsheals/navigate-companion-framework
+license: "Proprietary - see LICENSE.md"
+keywords:
+  - AI mental health
+  - Navigate Support
+  - anxiety tools
+  - dementia care
+  - menopause support
+  - ethical AI
